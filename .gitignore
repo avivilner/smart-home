@@ -41,3 +41,4 @@ inc/abstract_agent_controller.hpp
 inc/abstract_sensor_agent.hpp
 src/controllers/abstract_agent_controller.cpp
 node_modules
+*.bash
